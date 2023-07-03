@@ -1,0 +1,16 @@
+{
+	"name": "04-board",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"homepage": "https://reushevkirill.github.io/color-board",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"gh-pages": "^5.0.0"
+	}
+}
